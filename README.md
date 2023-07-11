@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Apooorv
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning  javascript
-- 💞️ I’m looking to collaborate on front end web development projects
+- 👋 Hi, I’m @Apoorv
+- 👀 I’m interested in web development
+- 🌱 I am a full stack developer with knowledge of frontend-framework react.js and backend with node js  
+- 💞️ I’m looking to collaborate on front-end and full stack  web development projects
 - 📫  you can contact me on my email apoorair1@gmail.com 
 
 <!---
